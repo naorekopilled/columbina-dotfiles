@@ -29,9 +29,14 @@ After that, change your colors, icons, cursor and Plasma Style in your settings.
 .local/share/columbina-rice/lockscreen-clock.py moves the lock screen clock to the bottom-right. Put the script in /usr/local/share/columbina-rice/ and run it with sudo. On Arch you can put columbina-lockscreen-clock.hook in /etc/pacman.d/hooks/ so it runs again after every plasma-workspace update.
 
 ## Credits:
-- columbina-flat is the YunYun Syndrome theme by Tetralink recolored (https://github.com/Tetralink/YunYun-Syndrome-KDE-Plasma-Theme), GPL, the license is in its folder
 - candy icons by EliverLara (https://github.com/EliverLara/candy-icons)
 - the cursor is from https://vsthemes.org/en/cursors/anime/74405-columbina-genshin.html
+- desktop-moon.jpg and desktop-moon.mp4 are "Genshin Impact: Columbina 2" by Gesonel, o Mestre dos Disfarces (https://steamcommunity.com/sharedfiles/filedetails/?id=3657826442). The start menu icon and the Applications folder icon are cut out of it
+- lock-moonlight-blossom.jpg and lock-moonlight-blossom-1080p.mp4 are "Columbina Moonlight Blossom Live Wallpaper" by Sub01 (https://steamcommunity.com/sharedfiles/filedetails/?id=3561520445), I got it from https://vsthemes.org/en/wallpapers/games/73526-columbina-moonlight-genshin.html
+- second-luminous-moon.mp4 is "Genshin columbina" by bcw (https://steamcommunity.com/sharedfiles/filedetails/?id=3583974091)
+- login-flower-field.jpg is from "Genshin Impact: Columbina 1" by Gesonel, o Mestre dos Disfarces (https://steamcommunity.com/sharedfiles/filedetails/?id=3537052629). The Cool stuff folder icon is cut out of it
+- the SMO folder icon is cut out of "Silvermoon Hall Columbina 1" by perpslurp (https://steamcommunity.com/sharedfiles/filedetails/?id=3595051720)
+- the dove in the fastfetch logo is made from the Noto Emoji dove by Google (https://github.com/googlefonts/noto-emoji)
 
 ## Other preview:
 

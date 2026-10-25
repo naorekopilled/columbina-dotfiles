@@ -1,15 +1,11 @@
 {
   "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
   "logo": {
-    "type": "file",
-    "source": "~/.config/fastfetch/kuuhenki.txt",
-    "padding": { "top": 1, "left": 1, "right": 3 },
-    "color": {
-      "1": "38;2;225;235;255",
-      "2": "38;2;150;195;245",
-      "3": "38;2;95;140;225",
-      "4": "38;2;240;150;190"
-    }
+    "type": "iterm",
+    "source": "~/.config/fastfetch/kuuhenki.png",
+    "width": 46,
+    "height": 23,
+    "padding": { "top": 1, "left": 1, "right": 3 }
   },
   "display": {
     "color": {

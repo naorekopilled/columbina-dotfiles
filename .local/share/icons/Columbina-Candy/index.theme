@@ -3,7 +3,7 @@ Name=Columbina Candy
 Comment=candy-icons with pink folders
 Inherits=candy-icons,breeze-dark,Adwaita,hicolor
 FollowsColorScheme=true
-Directories=places/16,places/48
+Directories=places/16,places/48,mimetypes/scalable
 
 [places/16]
 Size=16
@@ -19,3 +19,9 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
+[mimetypes/scalable]
+Size=96
+Context=MimeTypes
+MinSize=8
+MaxSize=256
+Type=Scalable

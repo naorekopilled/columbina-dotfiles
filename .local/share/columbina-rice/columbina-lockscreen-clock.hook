@@ -1,0 +1,10 @@
+[Trigger]
+Operation = Install
+Operation = Upgrade
+Type = Package
+Target = plasma-workspace
+
+[Action]
+Description = Columbina rice: moving the lock screen clock to the bottom-right
+When = PostTransaction
+Exec = /usr/bin/python3 /usr/local/share/columbina-rice/lockscreen-clock.py

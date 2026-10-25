@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "KSysguard/SensorFace",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Jess Kortes"
+            }
+        ],
+        "Icon": "office-chart-bar",
+        "Id": "org.columbina.barlabel",
+        "License": "LGPLv2+",
+        "Name": "Bar Chart with Label",
+        "Version": "1.0",
+        "Website": "https://kde.org"
+    },
+    "X-KDE-ParentApp": "org.kde.plasmashell"
+}

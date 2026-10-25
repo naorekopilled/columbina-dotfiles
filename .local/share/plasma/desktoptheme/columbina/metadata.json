@@ -1,0 +1,9 @@
+{
+    "KPlugin": {
+        "Description": "Breeze with rounded purple task buttons",
+        "Id": "columbina",
+        "Name": "Columbina",
+        "Version": "1.0"
+    },
+    "X-Plasma-API": "5.0"
+}

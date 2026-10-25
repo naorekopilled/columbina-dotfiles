@@ -1,0 +1,9 @@
+{
+    "KPlugin": {
+        "Description": "Flat square YunYun-style layout in Columbina colors",
+        "Id": "columbina-flat",
+        "Name": "Columbina Flat",
+        "Version": "1.0"
+    },
+    "X-Plasma-API": "5.0"
+}

@@ -1,0 +1,9 @@
+[AdaptiveTransparency]
+enabled=true
+
+# without Panel Colorizer's blur plugin the dock blur is a plain rectangle around the rounded pill
+[BlurBehindEffect]
+enabled=false
+
+[ContrastEffect]
+enabled=false

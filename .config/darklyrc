@@ -1,0 +1,10 @@
+[Style]
+DolphinSidebarOpacity=70
+MenuBarOpacity=85
+MenuOpacity=80
+TabBarOpacity=85
+ToolBarOpacity=85
+TransparentDolphinView=false
+
+[Windeco]
+BlurTransparentTitleBar=true

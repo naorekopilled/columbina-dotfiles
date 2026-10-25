@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "KSysguard/SensorFace",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Jess Kortes"
+            }
+        ],
+        "Icon": "office-chart-line",
+        "Id": "org.columbina.linelabel",
+        "License": "LGPLv2+",
+        "Name": "Line Chart with Label",
+        "Version": "1.0",
+        "Website": "https://kde.org"
+    },
+    "X-KDE-ParentApp": "org.kde.plasmashell"
+}

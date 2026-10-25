@@ -23,7 +23,7 @@ After that, change your colors, icons, cursor and Plasma Style in your settings.
 ## Terminal:
 - WezTerm, with JetBrains Mono and FantasqueSansM Nerd Font Mono
 - ble.sh for the syntax colors (`yay -S blesh-git`)
-- fastfetch with the moon/dove logo, and the btop theme in .config/btop/themes/
+- fastfetch, and the btop theme in .config/btop/themes/
 
 ## Lock screen clock:
 .local/share/columbina-rice/lockscreen-clock.py moves the lock screen clock to the bottom-right. Put the script in /usr/local/share/columbina-rice/ and run it with sudo. On Arch you can put columbina-lockscreen-clock.hook in /etc/pacman.d/hooks/ so it runs again after every plasma-workspace update.
@@ -36,7 +36,6 @@ After that, change your colors, icons, cursor and Plasma Style in your settings.
 - second-luminous-moon.mp4 is "Genshin columbina" by bcw (https://steamcommunity.com/sharedfiles/filedetails/?id=3583974091)
 - login-flower-field.jpg is from "Genshin Impact: Columbina 1" by Gesonel, o Mestre dos Disfarces (https://steamcommunity.com/sharedfiles/filedetails/?id=3537052629). The Cool stuff folder icon is cut out of it
 - the SMO folder icon is cut out of "Silvermoon Hall Columbina 1" by perpslurp (https://steamcommunity.com/sharedfiles/filedetails/?id=3595051720)
-- the dove in the fastfetch logo is made from the Noto Emoji dove by Google (https://github.com/googlefonts/noto-emoji)
 
 ## Other preview:
 

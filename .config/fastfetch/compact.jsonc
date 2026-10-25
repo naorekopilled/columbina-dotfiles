@@ -3,7 +3,7 @@
   // same as config.jsonc, info cut to 36 cols / 21 lines so the logo fits an 80x24 window
   "logo": {
     "type": "file",
-    "source": "~/.config/fastfetch/columbina.txt",
+    "source": "~/.config/fastfetch/kuuhenki.txt",
     "padding": { "top": 1, "left": 1, "right": 3 },
     "color": {
       "1": "38;2;201;80;143",
